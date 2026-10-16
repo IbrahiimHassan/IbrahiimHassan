@@ -20,4 +20,4 @@ Node.js, and Flutter, and I'm interested in REST APIs, databases, and applied AI
 **Domains:** E-commerce · Banking · Security
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/ibrahim-hassan-a5332b313) · ibrahim_hassan@live.ca
+[LinkedIn](https://www.linkedin.com/in/ibrahim-hassan-a5332b313) · ibrahim_hassan@live.ca
